@@ -1,6 +1,3 @@
-this is my first project and i am working on that . 
+this is my master branch 
 
-and i feel good 
-
-
-this look good to me you can deploy that code
+how are u guys 
